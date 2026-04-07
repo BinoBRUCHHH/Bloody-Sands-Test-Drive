@@ -1,0 +1,4 @@
+tools/imagegen/.venv/
+tools/imagegen/outputs/
+tools/imagegen/__pycache__/
+tools/imagegen/references/
